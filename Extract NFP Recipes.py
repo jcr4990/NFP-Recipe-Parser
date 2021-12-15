@@ -15,5 +15,9 @@ for match in matches:
     formatted_match = re.sub("-", "", formatted_match)
     recipes.append(formatted_match)
 
+output = "".join(recipes).strip()
+output = output.replace("\n\n\n", "\n\n")
+output = output.replace("INVALID ITEM ID IN VARLINK", "Oven")
+
 with open("Recipes.txt", "w") as f:
-    f.write("".join(recipes))
+    f.write(output)
