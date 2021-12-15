@@ -15,6 +15,5 @@ for match in matches:
     formatted_match = re.sub("-", "", formatted_match)
     recipes.append(formatted_match)
 
-
 with open("Recipes.txt", "w") as f:
     f.write("".join(recipes))
