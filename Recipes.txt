@@ -1,0 +1,169 @@
+
+Recipe for 1 x Mixed Fur Quiver 
+component 2 x Bat Fur 
+component 2 x Skunk Fur 
+component 2 x Othimir Fur 
+in container Crafting Kit 
+
+Recipe for 1 x Class II Collapsable Roboboar 
+component 1 x Class II Roboboar Upgrade Device Parts 
+component 1 x Broken Roboboar 
+in container Crafting Kit 
+
+Recipe for 1 x Deck of Kings 
+component 1 x One of Kings 
+component 1 x Two of Kings 
+component 1 x Three of Kings  
+component 1 x Four of Kings 
+component 1 x Five of Kings 
+component 1 x Six of Kings 
+in container Crafting Kit 
+
+Recipe for 1 x Class A Ring 
+component 1 x Class A Gemstone 
+component 1 x Metal Loop 
+in container Crafting Kit 
+
+
+component 1 x Solidified Sinew  
+in container Crafting Kit 
+
+component 1 x Star Ruby 
+in container Crafting Kit 
+
+
+Recipe for 1 x Scrap Metal 
+Recipe for 1 x a heavy rock 
+component 1 x a heavy rock 
+component 1 x Rusty Scimitar 
+in container Crafting Kit 
+
+Recipe for 1 x Lesser Shard of Resources 
+component 1 x Lesser Shard of Mana 
+component 1 x Lesser Shard of Endurance 
+in container Crafting Kit 
+
+component 3 x Mecha Silk 
+component 2 x Class C Gemstone 
+in container Crafting Kit 
+
+Recipe for 1 x Potion of Vines 
+component 1 x neutralizing agent 
+component 1 x living roots 
+component 1 x Water Flask 
+in container Crafting Kit 
+
+Recipe for 1 x Scrap Metal 
+Recipe for 1 x a heavy rock 
+component 1 x Rusty Short Sword 
+component 1 x a heavy rock 
+in container Crafting Kit 
+
+component 1 x Mecha Silk 
+component 1 x Class C Gemstone 
+in container Crafting Kit 
+
+Recipe for 1 x Scrap Metal Crate 
+component 5 x Scrap Metal 
+in container Crafting Kit 
+
+Recipe for 1 x Crystalline Chitin Vambraces 
+component 5 x Chitin 
+component 2 x Crystallized Powder 
+in container Crafting Kit 
+
+Recipe for 1 x Baked Rat RibEye 
+component 1 x Fatty Rat Meat 
+component 2 x Salt 
+component 2 x Pepper 
+in container INVALID ITEM ID IN VARLINK 
+
+Recipe for 1 x Crystalline Chitin Vambraces 
+component 5 x Chitin 
+component 2 x Crystallized Powder 
+in container Crafting Kit 
+
+Recipe for 1 x Large Iron Spiked Staff 
+component 1 x Large Iron Staff 
+component 2 x Thick Leather 
+component 5 x Pristine Tusk 
+in container Crafting Kit 
+
+Recipe for 1 x Minor Shard of Hybrid 
+component 1 x Minor Shard of Health 
+component 1 x Minor Shard of Mana 
+in container Crafting Kit 
+
+Recipe for 1 x Grizzly Skin Quiver  
+component 6 x Grizzly Skin 
+in container Crafting Kit 
+
+component 1 x Fire Opal 
+in container Crafting Kit 
+
+Recipe for 1 x Greater Shard of Hybrid 
+component 1 x Greater Shard of Health 
+component 1 x Greater Shard of Mana 
+in container Crafting Kit 
+
+Recipe for 1 x Greater Spider Venom 
+component 1 x Spider Poison Gland 
+component 1 x Greater Poison Vial 
+in container Crafting Kit 
+
+Recipe for 1 x Scrap Metal 
+Recipe for 1 x a heavy rock 
+component 1 x Rusty Short Sword 
+component 1 x a heavy rock 
+in container Crafting Kit 
+
+Recipe for 1 x Chunk of Metal 
+component 2 x Scrap Metal 
+in container Crafting Kit 
+
+Recipe for 1 x Lesser Murk Poison 
+component 1 x Murkglider Poison Sack 
+component 1 x Lesser Poison Vial 
+in container Crafting Kit 
+
+Recipe for 1 x Greater Shard of Fighting 
+component 1 x Greater Shard of Health 
+component 1 x Greater Shard of Endurance 
+in container Crafting Kit 
+
+Recipe for 1 x Slick Skin Quiver 
+component 6 x Shili Skin 
+in container Crafting Kit 
+
+Recipe for 1 x Tainted Energizing Poison 
+component 1 x Energizing Spores 
+component 1 x Spider Poison Gland 
+in container Crafting Kit 
+
+Recipe for 1 x Envenomed Mana Potion 
+component 1 x Small Mana Potion 
+component 1 x Mixing Agent 
+component 1 x Viper Venom Poison 
+in container Crafting Kit 
+
+Recipe for 1 x Class C Ring 
+component 1 x Class C Gemstone 
+component 1 x Metal Loop 
+in container Crafting Kit 
+
+Recipe for 1 x Essence of Vah Shir 
+component 1 x Vah Shir Blood 
+component 1 x Mixing Agent 
+in container Crafting Kit 
+
+Recipe for 1 x Bearwhich 
+component 1 x Bear Meat 
+component 1 x Pepper 
+component 1 x Salt 
+component 1 x Loaf of Bread 
+in container INVALID ITEM ID IN VARLINK 
+
+Recipe for 1 x Minor Shard of Fighting 
+component 1 x Minor Shard of Health 
+component 1 x Minor Shard of Endurance 
+in container Crafting Kit 
